@@ -1,0 +1,9 @@
+<pip install>
+torch==1.6.0
+numpy
+matplotlib
+tensorboard
+torchsummary
+efficientnet_pytorch
+shutil
+adamp
